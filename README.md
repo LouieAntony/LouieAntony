@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[![alt text][2.1]][2]
 [![alt text][6.1]][6]
 [![alt text][7.1]][7]
 
