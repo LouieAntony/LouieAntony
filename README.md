@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on some interesting projects with companies or individuals !
 
-- 💬 Ask me about OpenCV, Neural Networks or even different Machine Learning models !!
+- 💬 Ask me about OpenCV, Neural Networks or even different Machine Learning models !
 
 - 📫 How to reach me: Click on the above social media pop-ups or contact me directly on this mail : louieantony@gmail.com
