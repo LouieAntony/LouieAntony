@@ -15,7 +15,7 @@ My name is Louie Antony. My fields of interests are Computer Vision, Deep Learni
 
 Here are some ideas to get you started:
 -->
-- 🔭 I am looking to gain more experience in the fields of Computer Vision and Deep Learning
+- 🔭 I am looking to gain more experience in the fields of Computer Vision and Deep Learning.
 
 - 👯 I’m looking to collaborate on some interesting projects with companies or individuals !
 
