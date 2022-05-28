@@ -1,13 +1,12 @@
 Hello (Bonjour), I'm Louie Antony, my fields of interests are Computer Vision, Deep Learning, Machine Learning and Data Science.
 <hr/>
-<p><a href="https://www.linkedin.com/in/piyush24/"><img src="https://img.shields.io/badge/-piyush24-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/piyush24/" alt="Linkedin Badge"></a>
-<a href="https://instagram.com/louie_antony/"><img src="https://img.shields.io/badge/-@Louie-purple?style=flat&amp;logo=instagram&amp;logoColor=white&amp;link=https://instagram.com/louie_antony/" alt="Instagram Badge"></a>
-<a href="mailto:me@piyushmehta.com"><img src="https://img.shields.io/badge/-piyushmehta-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:me@piyushmehta.com" alt="Gmail Badge"></a>
-<img src="https://komarev.com/ghpvc/?username=piyush97&amp;style=flat-square&amp;color=blueviolet" alt=""></p>
+<p><a href="https://in.linkedin.com/in/louie-antony-9a99aa190"><img src="https://img.shields.io/badge/-piyush24-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://in.linkedin.com/in/louie-antony-9a99aa190" alt="Linkedin Badge"></a>
+<a href="https://instagram.com/louie_antony/"><img src="https://img.shields.io/badge/-@Louie_Antony-purple?style=flat&amp;logo=instagram&amp;logoColor=white&amp;link=https://instagram.com/louie_antony/" alt="Instagram Badge"></a>
+<a href="mailto:louieantony@gmail.com"><img src="https://img.shields.io/badge/-Louie_Antony-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:louieantony@gmail.com" alt="Gmail Badge"></a>
 
 
 
-
+https://in.linkedin.com/in/louie-antony-9a99aa190
 
 
 
