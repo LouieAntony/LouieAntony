@@ -1,12 +1,12 @@
-Hello (Bonjour), I'm Louie Antony, my fields of interests are Computer Vision, Deep Learning, Machine Learning and Data Science.
+Hi, I'm Louie Antony, my fields of interests are Computer Vision, Deep Learning, Machine Learning and Data Science.
 <hr/>
 <p><a href="https://in.linkedin.com/in/louie-antony-9a99aa190"><img src="https://img.shields.io/badge/Louie_Antony-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://in.linkedin.com/in/louie-antony-9a99aa190" alt="Linkedin Badge"></a>
 <a href="https://instagram.com/louie_antony/"><img src="https://img.shields.io/badge/-@Louie_Antony-purple?style=flat&amp;logo=instagram&amp;logoColor=white&amp;link=https://instagram.com/louie_antony/" alt="Instagram Badge"></a>
 <a href="mailto:louieantony@gmail.com"><img src="https://img.shields.io/badge/-Louie_Antony-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:louieantony@gmail.com" alt="Gmail Badge"></a>
 
-- 📚 I'm currently a pre-final year student pursuing bachelor's in Information Science and Engineering
-- ⚡ Fun fact: I love to pass my time learning about finanace
-- 💬 Ask me about anything, I am happy to help
+- 📚 I'm currently a pre-final year student pursuing bachelor's in Information Science and Engineering.
+- ⚡ Fun fact: I love to pass my time learning about finanace.
+- 💬 Ask me about anything, I am happy to help.
 - 🔭 I am looking to gain more experience in the fields of Computer Vision and Deep Learning.
 - 👯 I’m looking to collaborate on some interesting projects with companies or individuals !
 - 📫 How to reach me: [@LouieAntony](https://in.linkedin.com/in/louie-antony-9a99aa190)
