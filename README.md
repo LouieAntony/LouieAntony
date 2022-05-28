@@ -11,14 +11,14 @@ Hello (Bonjour), I'm Louie Antony, my fields of interests are Computer Vision, D
 - 👯 I’m looking to collaborate on some interesting projects with companies or individuals !
 - 📫 How to reach me: [@LouieAntony](https://in.linkedin.com/in/louie-antony-9a99aa190)
 
-### Connect with me:
+### Connect with me :
 <img align="left" alt="LouieAntony | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin-circled--v3.png" />
 <img align="left" alt="LouieAntony | Instagram" width="30px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />
 
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools :
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
