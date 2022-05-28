@@ -7,7 +7,7 @@ Hi, I'm Louie Antony, my fields of interests are Computer Vision, Deep Learning,
 - 📚 I'm currently a pre-final year student pursuing bachelor's in Information Science and Engineering.
 - ⚡ Fun fact: I love to pass my time learning about finanace.
 - 💬 Ask me about anything, I am happy to help.
-- 🔭 I am looking to gain more experience in the fields of Computer Vision and Deep Learning.
+- 🔭 I am seeking to gain more experience in the fields of Computer Vision and Deep Learning.
 - 👯 I’m looking to collaborate on some interesting projects with companies or individuals !
 - 📫 How to reach me: [@LouieAntony](https://in.linkedin.com/in/louie-antony-9a99aa190)
 
