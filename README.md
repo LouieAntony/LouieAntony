@@ -1,5 +1,4 @@
-<h1 align="center"> <img  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80"/> 
-Hello (Bonjour)🙏🏻, I'm Piyush Mehta, a Full Stack Developer based in Canada 🇨🇦
+Hello (Bonjour), I'm Louie Antony, my fields of interests are Computer Vision, Deep Learning, Machine Learning and Data Science.
 <hr/>
 <p><a href="https://www.linkedin.com/in/piyush24/"><img src="https://img.shields.io/badge/-piyush24-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/piyush24/" alt="Linkedin Badge"></a>
 <a href="https://medium.com/@pmcool97"><img src="https://img.shields.io/badge/-pmcool97-black?style=flat&amp;labelColor=000000&amp;logo=Medium&amp;link=https://medium.com/@pmcool97" alt="Medium Badge"></a>
