@@ -10,8 +10,8 @@ Hello (Bonjour), I'm Louie Antony, my fields of interests are Computer Vision, D
 - 📫 How to reach me: [@LouieAntony](https://in.linkedin.com/in/louie-antony-9a99aa190)
 
 ### Connect with me:
-[<img align="left" alt="LouieAntony | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin-circled--v3.png" />]
-[<img align="left" alt="LouieAntony | Instagram" width="30px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />]
+<img align="left" alt="LouieAntony | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin-circled--v3.png" />
+<img align="left" alt="LouieAntony | Instagram" width="30px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />
 
 
 <br />
@@ -21,7 +21,7 @@ Hello (Bonjour), I'm Louie Antony, my fields of interests are Computer Vision, D
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
