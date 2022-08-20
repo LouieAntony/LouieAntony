@@ -4,7 +4,7 @@ Hi, I'm Louie Antony, I am passionate about technology, innovation and big chall
 <a href="https://instagram.com/louie_antony/"><img src="https://img.shields.io/badge/-@Louie_Antony-purple?style=flat&amp;logo=instagram&amp;logoColor=white&amp;link=https://instagram.com/louie_antony/" alt="Instagram Badge"></a>
 <a href="mailto:louieantony@gmail.com"><img src="https://img.shields.io/badge/-Louie_Antony-c14438?style=flat&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:louieantony@gmail.com" alt="Gmail Badge"></a>
 
-- 📚 I'm currently a pre-final year student pursuing bachelor's in Information Science and Engineering.
+- 📚 I'm currently a final year student pursuing bachelor's in Information Science and Engineering.
 - ⚡ Fun fact: I love to pass my time learning about finance.
 - 💬 Ask me about anything, I am happy to help.
 - 🔭 I'm seeking to gain more experience in the fields of Computer Vision and Deep Learning.
